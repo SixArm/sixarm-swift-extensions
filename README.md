@@ -1,4 +1,4 @@
-# SixArm.com » Swift » <br> Extensions for typical coding needs
+# Swift » <br> Extensions for typical coding needs
 
 * Repo: <http://github.com/sixarm/sixarm_swift_extensions>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
