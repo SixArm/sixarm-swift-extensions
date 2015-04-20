@@ -1,0 +1,5 @@
+import UIKit
+
+extension UIImagePickerController
+
+  isSourceTypeAndMediaTypeAvailable.swift

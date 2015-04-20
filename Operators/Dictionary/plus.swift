@@ -1,7 +1,7 @@
 /// Add items to a dictionary.
 ///
-/// :author: Joel Parker Henderson (https://joelparkerhenderson.com)
-/// :license: GPL (https://www.gnu.org/copyleft/gpl.html)
+/// :author: Joel Parker Henderson ( https://joelparkerhenderson.com )
+/// :license: GPL ( https://www.gnu.org/copyleft/gpl.html )
 
 /// Add dictionaries.
 ///
