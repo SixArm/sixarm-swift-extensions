@@ -1,7 +1,7 @@
 import CNContact
 import XCTest
 
-class CNContact_fullName_Tests: XCTestCase {
+class CNContact_toString_Tests: XCTestCase {
 
   //TODO
   
